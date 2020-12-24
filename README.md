@@ -1,2 +1,3 @@
 # comp1
-basic android
+
+lets do this!
