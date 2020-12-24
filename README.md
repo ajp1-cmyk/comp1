@@ -1,3 +1,3 @@
 # comp1
-
-lets do this!
+now we can start git!!!!
+android devlopment is main moto
